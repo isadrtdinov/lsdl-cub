@@ -23,7 +23,7 @@ Completion: To pass this module, the examination of each module component must b
 
 | Date | Number | Topic | Materials |
 | :---: | :---: | --- | --- |
-| 09.09.24  | 01  | Large models and self-supervised learning. Introduction to the course, problems of large models and large datasets, self-supervised learning. What to do with a pretrained model? Probing (Linear classifier), Fine-tuning, Zero-shot. |     |
+| 09.09.24  | 01  | Introduction to the course. Large models, large datasets and self-supervised learning. What to do with a pretrained model? Linear probing, Fine-tuning, in-distribution (ID) and out-of-distribution (OOD) performance. CLIP model, Zero-shot and WiSE-FT (robust weights ensemble). |  [Fine-tuning distorts features](https://arxiv.org/pdf/2202.10054), [Comparing pre-training algorithms](https://arxiv.org/pdf/2103.14005), [CLIP](https://arxiv.org/pdf/2103.00020), [WiSE-FT](https://arxiv.org/pdf/2109.01903), [Do ImageNet Classifiers Generalize to ImageNet?](https://arxiv.org/pdf/1902.10811)  |
 | 16.09.24  | 02  | Classical pretext tasks for images: inpainting, colorization, jigsaw puzzles   |  |
 | 23.09.24  | 03  | Modern architectures for images: ViT, DEiT, Swin, Neighborhood Attention Transformer, MLPMixer, ConvNext |  |
 | 30.09.24  | 04  | Contrastive learning for images. Mutual information, SimCLR, MoCo, BYOL, SimSiam, SwAV. Deriving contrastive loss |  |
