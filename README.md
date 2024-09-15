@@ -2,7 +2,7 @@
 
 With the advancement of deep learning, an increasing number of new tasks and datasets have emerged, which can be used to train models. However, while collecting data can be done algorithmically without much effort, annotating it is a very labor-intensive and costly process. This has led to the need for training models on unannotated data. This is how the self-supervised learning paradigm came into being, which will be the focus of this course. Course participants will become familiar with both traditional and the most modern approaches to pretraining on unannotated data and will work with various domains, from images and texts to audio and graphs.
 
-**Instructors:** Alexander Shabalin, Ildus Satrdinov, Dmitry Kropotov
+**Instructors:** Alexander Shabalin, Ildus Sadrtdinov, Dmitry Kropotov
 
 **Classes:** on Mondays offline in the classroom EH-4 in time slots 14:15 - 15:30 and 15:45 - 17:00
 
