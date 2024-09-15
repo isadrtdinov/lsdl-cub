@@ -37,5 +37,11 @@ Completion: To pass this module, the examination of each module component must b
 | 25.11.24  | 12  | Self-supervised learning for audio. Introduction to audio processing. CPC, Wav2Vec 2.0, HUBERT, Multi-format contrastive learning, BYOL-A. |  |
 | 02.12.24  | 13  | Self-supervised learning for graphs. Intro to representation learning on graphs. Review of approaches. |  |
 
+## Home assignments
+
+| Number | Release date | Deadline | Topic |
+| :---: | :---: | :---: | :---: |
+| 01 | 15.09.24 | 01.10.24 23:59 | [Robust fine-tuning of CLIP](https://github.com/isadrtdinov/lsdl-cub/blob/main/week01-finetune/homework/homework-week01.ipynb)
+
 ## Recommended reading
 Some list of materials here
