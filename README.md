@@ -24,18 +24,18 @@ Completion: To pass this module, the examination of each module component must b
 | Date | Number | Topic | Materials |
 | :---: | :---: | --- | --- |
 | 09.09.24  | 01  | Introduction to the course. Large models, large datasets and self-supervised learning. What to do with a pretrained model? Linear probing, Fine-tuning, in-distribution (ID) and out-of-distribution (OOD) performance. CLIP model, Zero-shot and WiSE-FT (robust weights ensemble). |  [Fine-tuning distorts features](https://arxiv.org/pdf/2202.10054), [Comparing pre-training algorithms](https://arxiv.org/pdf/2103.14005), [CLIP](https://arxiv.org/pdf/2103.00020), [WiSE-FT](https://arxiv.org/pdf/2109.01903), [Do ImageNet Classifiers Generalize to ImageNet?](https://arxiv.org/pdf/1902.10811)  |
-| 16.09.24  | 02  | Classical pretext tasks for images: inpainting, colorization, jigsaw puzzles   |  [Exemplar](https://arxiv.org/abs/1406.6909), [Context Prediction](https://arxiv.org/abs/1505.05192), [Inpainting](https://arxiv.org/abs/1604.07379), [Jigsaw Puzzles](https://arxiv.org/abs/1603.09246), [Colorization](https://arxiv.org/abs/1603.08511), [Rotations](https://arxiv.org/abs/1803.07728), [Damaged Jigsaw Puzzles](https://arxiv.org/abs/1802.01880), [Task Ensemble](https://arxiv.org/abs/1708.07860) |
-| 23.09.24  | 03  | Modern architectures for images: ViT, DEiT, Swin, Neighborhood Attention Transformer, MLPMixer, ConvNext |  |
-| 30.09.24  | 04  | Contrastive learning for images. Mutual information, SimCLR, MoCo, BYOL, SimSiam, SwAV. Deriving contrastive loss |  |
-| 07.10.24  | 05  | Masked image modeling. DINO, BEiT, MAE, MaskFeat. Different approaches for improving contrastive learning.  |  | 
-| 14.10.24  | 06  | Ensembling & weight averaging. Deep Ensemble, FGE, SSE, SWAG, SPRO, StarSSE, SWA, model soups |  |
-| 21.10.24  | 07  | Pruning, Quantization, Distillation |  |
-| 28.10.24  | 08  | Modern architectures for texts. Recap of transformers. Modern architectures. Transformer training tricks. What LLMs learn? |  |
-| 04.11.24  | 09  | Parameter-Efficient Fine-tuning. GPT zero-shot, Prompt Tuning, Adapters, LoRA, QLoRA |  |
-| 11.11.24  | 10  | Retrieval Augmented Generation |  |
-| 18.11.24  | 11  | Reinforcement Learning with Human Feedback |  |
-| 25.11.24  | 12  | Self-supervised learning for audio. Introduction to audio processing. CPC, Wav2Vec 2.0, HUBERT, Multi-format contrastive learning, BYOL-A. |  |
-| 02.12.24  | 13  | Self-supervised learning for graphs. Intro to representation learning on graphs. Review of approaches. |  |
+| 23.09.24  | 02  | Classical pretext tasks for images: inpainting, colorization, jigsaw puzzles   |  [Exemplar](https://arxiv.org/abs/1406.6909), [Context Prediction](https://arxiv.org/abs/1505.05192), [Inpainting](https://arxiv.org/abs/1604.07379), [Jigsaw Puzzles](https://arxiv.org/abs/1603.09246), [Colorization](https://arxiv.org/abs/1603.08511), [Rotations](https://arxiv.org/abs/1803.07728), [Damaged Jigsaw Puzzles](https://arxiv.org/abs/1802.01880), [Task Ensemble](https://arxiv.org/abs/1708.07860) |
+| 30.09.24  | 03  | Modern architectures for images: ViT, DEiT, Swin, Neighborhood Attention Transformer, MLPMixer, ConvNext |  |
+| 07.10.24  | 04  | Contrastive learning for images. Mutual information, SimCLR, MoCo, BYOL, SimSiam, SwAV. Deriving contrastive loss |  |
+| 14.10.24  | 05  | Masked image modeling. DINO, BEiT, MAE, MaskFeat. Different approaches for improving contrastive learning.  |  | 
+| 21.10.24  | 06  | Ensembling & weight averaging. Deep Ensemble, FGE, SSE, SWAG, SPRO, StarSSE, SWA, model soups |  |
+| 28.10.24  | 07  | Pruning, Quantization, Distillation |  |
+| 04.11.24  | 08  | Modern architectures for texts. Recap of transformers. Modern architectures. Transformer training tricks. What LLMs learn? |  |
+| 11.11.24  | 09  | Parameter-Efficient Fine-tuning. GPT zero-shot, Prompt Tuning, Adapters, LoRA, QLoRA |  |
+| 18.11.24  | 10  | Retrieval Augmented Generation |  |
+| 25.11.24  | 11  | Reinforcement Learning with Human Feedback |  |
+| 02.12.24  | 12  | Self-supervised learning for audio. Introduction to audio processing. CPC, Wav2Vec 2.0, HUBERT, Multi-format contrastive learning, BYOL-A. |  |
+| 07.12.24  | 13  | Self-supervised learning for graphs. Intro to representation learning on graphs. Review of approaches. |  |
 
 ## Home assignments
 
