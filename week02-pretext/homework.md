@@ -4,7 +4,7 @@ Deadline: __18.10.2024 23:59__
 ### General rules
 In this homework assignment, we will use a dataset consisting of images of size 224x224 from 10 classes of animals. There are 8 times more _unlabeled_ images than _labeled_ ones. Your task is to maximize the classification accuracy by pretraining a model with classical pretrainings methods (pretext tasks, similar to those discussed in the lecture). 
 
-It is not allowed to use more modern methods (e.g. contrastive learning), and it is also forbidden to use any additional datasets or pre-trained models. And, of course, data labeling in any form is forbidden. If these rules are violated, the grade for the assignment will be 0. If you are not sure if a method falls under "classical" or if it can be used at all, ask @amshabalin or @isadrtdinov about it. This is better than getting a ban after submitting your homework.
+It is not allowed to use more modern methods (e.g. contrastive learning) and test time augmentations or similar, it is also forbidden to use any additional datasets or pre-trained models. And, of course, data labeling in any form is forbidden. If these rules are violated, the grade for the assignment will be 0. If you are not sure if a method falls under "classical" or if it can be used at all, ask @amshabalin or @isadrtdinov about it. This is better than getting a ban after submitting your homework.
 
 In order to compete only in pre-training methods, we fix the architecture of the model. Train the standard `ResNet-18` model. You can import it like this:
 
