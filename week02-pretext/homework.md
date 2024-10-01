@@ -25,3 +25,7 @@ The score is formed of three parts:
 where the participant's place is calculated on the private test data. Thus, if 10 people passed the baseline, 1st place gets 5 points, 5th place gets 3 points, and 10th place gets 0.5 points.
 
 * 2 points are given for a report on the experiments done, where you describe in detail what methods you tried and what worked and what didn't. The report is a mandatory part of the assignment. Without a report, we will get __0 points__ for this assignment. When assigning a grade for the report, its design will be taken into account; try to make the report easy to read and sumbmit it as a pdf file.
+
+### Deadline
+
+The deadline is __18.10.2024__.
