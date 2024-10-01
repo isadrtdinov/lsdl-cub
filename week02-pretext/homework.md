@@ -1,4 +1,5 @@
 ## Homework 2
+Deadline: __18.10.2024 23:59__
 
 ### General rules
 In this homework assignment, we will use a dataset consisting of images of size 224x224 from 10 classes of animals. There are 8 times more _unlabeled_ images than _labeled_ ones. Your task is to maximize the classification accuracy by pretraining a model with classical pretrainings methods (pretext tasks, similar to those discussed in the lecture). 
@@ -16,7 +17,7 @@ This means that the final model used for classification should have exactly this
 
 
 ### Competition:
-[Link to competition](https://www.kaggle.com/competitions/lsdl-hw-2/), [link to data](https://bitly.com/98K8eH).
+[Link to competition](https://www.kaggle.com/t/1d325798097f4735bff1f058855d0829), [link to data](https://bitly.com/98K8eH).
 
 The score is formed of three parts:
 * 4 points are awarded to all participants who achieve accuracy >= 0.65 on public test data.
@@ -26,6 +27,27 @@ where the participant's place is calculated on the private test data. Thus, if 1
 
 * 2 points are given for a report on the experiments done, where you describe in detail what methods you tried and what worked and what didn't. The report is a mandatory part of the assignment. Without a report, we will get __0 points__ for this assignment. When assigning a grade for the report, its design will be taken into account; try to make the report easy to read and sumbmit it as a pdf file.
 
-### Deadline
+#### Hints:
+* Don't use complex decoders/heads, it only slows down learning.
+* Use loggers like wandb or tensorboard to track the learning process in real time, if the model is not learning, don't wait until the end, stop and look for the error.
+* Start early as experiments take time.
+* If the training of any model takes much longer than 6 hours, you are doing something wrong.
 
-The deadline is __18.10.2024__.
+
+In order to send a submission to kaggle, you need to save the predictions for all objects in `csv` format, where the `id` column is the file name and the `class` column is the text name of the predicted class.
+
+Example:
+```
+id,class
+0.jpg,chicken
+1.jpg,chicken
+2.jpg,dog
+3.jpg,cow
+4.jpg,horse
+5.jpg,spider
+6.jpg,cow
+7.jpg,spider
+8.jpg,elephant
+9.jpg,spider
+10.jpg,sheep
+```
