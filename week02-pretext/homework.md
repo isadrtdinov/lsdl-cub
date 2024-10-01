@@ -20,12 +20,13 @@ This means that the final model used for classification should have exactly this
 [Link to competition](https://www.kaggle.com/t/1d325798097f4735bff1f058855d0829), [link to data](https://bitly.com/98K8eH).
 
 The score is formed of three parts:
-* 4 points are awarded to all participants who achieve accuracy >= 0.65 on public test data.
-* When a participant reaches 0.65 accuracy, he/she automatically participates in the competition, for which points are awarded according to the formula below.   
+* __4 points__ are awarded to all participants who achieve accuracy >= 0.65 on public test data.
+* __2 points__ are awarded to all participants who achieve accuracy >= 0.7 on public test data.
+* When a participant reaches 0.7 accuracy, he/she automatically participates in the competition, for which points are awarded according to the formula below.   
   $$points = 5 \cdot \bigg(1 - \frac{\text{participant place} - 1}{\text{\\# participants}}\bigg),$$   
 where the participant's place is calculated on the private test data. Thus, if 10 people passed the baseline, 1st place gets 5 points, 5th place gets 3 points, and 10th place gets 0.5 points.
 
-* 2 points are given for a report on the experiments done, where you describe in detail what methods you tried and what worked and what didn't. The report is a mandatory part of the assignment. Without a report, we will get __0 points__ for this assignment. When assigning a grade for the report, its design will be taken into account; try to make the report easy to read and sumbmit it as a pdf file.
+* __2 points__ are given for a report on the experiments done, where you describe in detail what methods you tried and what worked and what didn't. The report is a mandatory part of the assignment. Without a report, we will get __0 points__ for this assignment. When assigning a grade for the report, its design will be taken into account; try to make the report easy to read and sumbmit it as a pdf file.
 
 #### Hints:
 * Don't use complex decoders/heads, it only slows down learning.
