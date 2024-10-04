@@ -41,7 +41,8 @@ Completion: To pass this module, the examination of each module component must b
 
 | Number | Release date | Deadline | Topic |
 | :---: | :---: | :---: | :---: |
-| 01 | 15.09.24 | 01.10.24 23:59 | [Robust fine-tuning of CLIP](https://github.com/isadrtdinov/lsdl-cub/blob/main/week01-finetune/homework/homework-week01.ipynb)
+| 01 | 15.09.24 | 01.10.24 23:59 | [Robust fine-tuning of CLIP](https://github.com/isadrtdinov/lsdl-cub/blob/main/week01-finetune/homework/homework-week01.ipynb) |
+| 02 | 01.10.24 | 18.10.24 23:59 | [Classical pre-text tasks](https://github.com/isadrtdinov/lsdl-cub/blob/main/week02-pretext/homework.md) |
 
 ## Recommended reading
 Some list of materials here
