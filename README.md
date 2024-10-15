@@ -1,6 +1,6 @@
 # CUB Large Scale Deep Learning Models, Fall 2024
 
-With the advancement of deep learning, an increasing number of new tasks and datasets have emerged, which can be used to train models. However, while collecting data can be done algorithmically without much effort, annotating it is a very labor-intensive and costly process. This has led to the need for training models on unannotated data. This is how the self-supervised learning paradigm came into being, which will be the focus of this course. Course participants will become familiar with both traditional and the most modern approaches to pretraining on unannotated data and will work with various domains, from images and texts to audio and graphs.
+The "Large Scale Deep Learning Models" course focuses on the methodologies and techniques used to train large models on extensive datasets across various data domains, including images, text, and audio. The course provides in-depth coverage of self-supervised learning approaches, which have become crucial for leveraging vast amounts of unlabeled data. Topics include data preprocessing and augmentation for different modalities, architectural considerations for scaling deep learning models, and strategies for distributed and parallel training.
 
 **Instructors:** Alexander Shabalin, Ildus Sadrtdinov, Dmitry Kropotov
 
