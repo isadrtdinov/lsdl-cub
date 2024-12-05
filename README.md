@@ -34,8 +34,7 @@ Completion: To pass this module, the examination of each module component must b
 | 11.11.24  | 09  | Parameter-Efficient Fine-tuning. GPT zero-shot, Prompt Tuning, Adapters, LoRA, BitFit | [GPT-3](https://arxiv.org/abs/2005.14165), [Prompt Tuning](https://arxiv.org/abs/2104.08691), [P-Tuning](https://aclanthology.org/2022.acl-short.8/), [Adapters](https://arxiv.org/abs/1902.00751), [LoRA](https://arxiv.org/abs/2106.09685), [BitFit](https://arxiv.org/abs/2106.10199) |
 | 18.11.24  | 10  | Retrieval Augmented Generation |  |
 | 25.11.24  | 11  | Reinforcement Learning with Human Feedback |  |
-| 02.12.24  | 12  | Self-supervised learning for audio. Introduction to audio processing. CPC, Wav2Vec 2.0, HUBERT, Multi-format contrastive learning, BYOL-A. |  |
-| 07.12.24  | 13  | Self-supervised learning for graphs. Intro to representation learning on graphs. Review of approaches. |  |
+| 02.12.24  | 12  | Introduction to audio processing. Text-to-speech (TTS): WaveNet, Tacotron 2, WaveGlow, HiFi-GAN. Automatic Speech Recognition (ASR): CTC Loss, Jasper, Whisper. Self-supervised learning for audio: CPC, Wav2Vec 2.0, HUBERT, Multi-format contrastive learning, BYOL-A, CLAP | [WaveNet](https://arxiv.org/abs/1609.03499), [Tacotron 2](https://arxiv.org/abs/1712.05884), [WaveGlow](https://arxiv.org/abs/1811.00002), [HiFi-GAN](https://arxiv.org/abs/2010.05646), <br> [CTC Loss](https://www.cs.toronto.edu/~graves/icml_2006.pdf), [Jasper](https://arxiv.org/abs/1904.03288), [Whisper](https://arxiv.org/abs/2212.04356), <br> [CPC](https://arxiv.org/abs/1807.03748), [Wav2Vec 2.0](https://arxiv.org/abs/2006.11477), [HuBERT](https://arxiv.org/abs/2106.07447), [Multi-format CL](https://arxiv.org/abs/2103.06508), [BYOL-A](https://arxiv.org/abs/2103.06695), [CLAP](https://arxiv.org/abs/2206.04769) |
 
 ## Home assignments
 
