@@ -40,6 +40,6 @@ Completion: To pass this module, the examination of each module component must b
 
 | Number | Release date | Deadline | Topic |
 | :---: | :---: | :---: | :---: |
-| 01 | 15.09.24 | 01.10.24 23:59 | [Robust fine-tuning of CLIP](https://github.com/isadrtdinov/lsdl-cub/blob/main/week01-finetune/homework/homework-week01.ipynb) |
-| 02 | 01.10.24 | 18.10.24 23:59 | [Classical pre-text tasks](https://github.com/isadrtdinov/lsdl-cub/blob/main/week02-pretext/homework.md) |
-| 03 | 18.10.24 | 06.11.24 23:59 | [Contrastive learning](https://github.com/isadrtdinov/lsdl-cub/blob/main/week04-contrastive/homework/homework-week04.ipynb) |
+| 01 | 15.09.24 | 01.10.24 23:59 | [Robust fine-tuning of CLIP](https://github.com/isadrtdinov/lsdl-cub/blob/2024/week01-finetune/homework/homework-week01.ipynb) |
+| 02 | 01.10.24 | 18.10.24 23:59 | [Classical pre-text tasks](https://github.com/isadrtdinov/lsdl-cub/blob/2024/week02-pretext/homework.md) |
+| 03 | 18.10.24 | 06.11.24 23:59 | [Contrastive learning](https://github.com/isadrtdinov/lsdl-cub/blob/2024/week04-contrastive/homework/homework-week04.ipynb) |
