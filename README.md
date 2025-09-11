@@ -23,9 +23,11 @@ Completion: To pass this module, the examination of each module component must b
 
 | Date | Number | Topic | Materials |
 | :---: | :---: | --- | --- |
+| 08.09.25  | 01  | Introduction to the course. Large models, large datasets and self-supervised learning. What to do with a pretrained model? Linear probing, Fine-tuning, in-distribution (ID) and out-of-distribution (OOD) performance. CLIP model, Zero-shot and WiSE-FT (robust weights ensemble). |  [Fine-tuning distorts features](https://arxiv.org/pdf/2202.10054), [Comparing pre-training algorithms](https://arxiv.org/pdf/2103.14005), [CLIP](https://arxiv.org/pdf/2103.00020), [WiSE-FT](https://arxiv.org/pdf/2109.01903), [Do ImageNet Classifiers Generalize to ImageNet?](https://arxiv.org/pdf/1902.10811)  |
 
 
 ## Home assignments
 
 | Number | Release date | Deadline | Topic |
 | :---: | :---: | :---: | :---: |
+| 01 | 11.09.25 | 28.09.24 23:59 | [Robust fine-tuning of CLIP](https://github.com/isadrtdinov/lsdl-cub/blob/2025/week01-finetune/homework/homework-week01.ipynb) |
