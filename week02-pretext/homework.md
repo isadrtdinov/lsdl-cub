@@ -1,5 +1,5 @@
 ## Homework 2
-Deadline: __18.10.2024 23:59__
+Deadline: __18.10.2025 23:59__
 
 ### General rules
 In this homework assignment, we will use a dataset consisting of images of size 224x224 from 10 classes of animals. There are 8 times more _unlabeled_ images than _labeled_ ones. Your task is to maximize the classification accuracy by pretraining a model with classical pretrainings methods (pretext tasks, similar to those discussed in the lecture). 
