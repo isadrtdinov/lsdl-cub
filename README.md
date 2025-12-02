@@ -36,6 +36,7 @@ Completion: To pass this module, the examination of each module component must b
 
 | Number | Release date | Deadline | Topic |
 | :---: | :---: | :---: | :---: |
-| 01 | 11.09.25 | 28.09.24 23:59 | [Robust fine-tuning of CLIP](https://github.com/isadrtdinov/lsdl-cub/blob/2025/week01-finetune/homework/homework-week01.ipynb) |
-| 02 | 01.10.25 | 18.10.2025 23:59 | [Pre-text tasks for images](https://github.com/isadrtdinov/lsdl-cub/blob/2025/week02-pretext/homework.md) |
-| 03 | 28.10.25 | 16.11.2025 23:59 | [Contrastive learning](https://github.com/isadrtdinov/lsdl-cub/blob/2025/week04-contrastive/homework/homework-week04.ipynb) | 
+| 01 | 11.09.2025 | 28.09.2025 23:59 | [Robust fine-tuning of CLIP](https://github.com/isadrtdinov/lsdl-cub/blob/2025/week01-finetune/homework/homework-week01.ipynb) |
+| 02 | 01.10.2025 | 18.10.2025 23:59 | [Pre-text tasks for images](https://github.com/isadrtdinov/lsdl-cub/blob/2025/week02-pretext/homework.md) |
+| 03 | 28.10.2025 | 16.11.2025 23:59 | [Contrastive learning](https://github.com/isadrtdinov/lsdl-cub/blob/2025/week04-contrastive/homework/homework-week04.ipynb) | 
+| bonus | 02.12.2025 | 09.12.2025 23:59 | [Self-supervised learning for audio](https://github.com/isadrtdinov/lsdl-cub/blob/2025/week12-audio/homework-week12.ipynb) |
