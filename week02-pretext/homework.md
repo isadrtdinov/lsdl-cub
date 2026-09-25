@@ -17,7 +17,7 @@ This means that the final model used for classification should have exactly this
 
 
 ### Competition:
-[Link to competition](https://www.kaggle.com/t/472bca3b740c499499f8b989a8625c64), [link to data](https://bitly.com/98K8eH).
+[Link to competition](https://www.kaggle.com/t/8bf72d5a155f43afacc72eb9f9b18dfc), [link to data](https://bitly.com/98K8eH).
 
 The score is formed of three parts:
 * __4 points__ are awarded to all participants who achieve accuracy >= 0.65 on public test data.
